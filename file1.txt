@@ -1,3 +1,4 @@
+The seven stages of Maven Lifecycle
 Validate 
 Compile
 Test
@@ -5,3 +6,6 @@ Package
 Verify
 Install and 
 Deploy
+
+
+Package - command to package the class files and create an artifact
